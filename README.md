@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Epanhua622
+- 👋 Hi, I’m Elisa Pan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me: elisapan622@gmail.com
 
 <!---
