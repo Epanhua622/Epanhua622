@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Elisa Pan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer engineering
-- 📫 How to reach me: elisapan622@gmail.com
+👋 Hi, I’m Elisa Pan  
 
-<!---
-Epanhua622/Epanhua622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a computer engineering student with interests in systems, security, and applied machine learning. I enjoy building and analyzing software that supports real-world workflows, from low-level systems to AI-enabled applications.
+
+I’ve worked on projects involving cybersecurity, distributed systems, and ML-based risk assessment, and I’m always curious about how theory translates into practice.
+
+📫 Feel free to reach out: elisapan622@gmail.com
